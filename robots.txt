@@ -1,0 +1,8 @@
+User-agent: Yandex
+Disallow: /
+
+User-agent: *
+Disallow: /css/
+Disallow: /js/
+Disallow: /images/
+Disallow: /warranty.docs/
